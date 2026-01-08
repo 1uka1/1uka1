@@ -11,7 +11,6 @@
 ## Contact
 - prof. email: luka.ajkalo2@gmail.com
 
-## Personal🥷
+## Personal
 - 3rd year HTL Kaindorf
-- Athlete
-- idk bru🕊️
+- Athlete🏀🌊
