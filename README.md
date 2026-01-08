@@ -1,12 +1,3 @@
-Hi, my name is,  
-```
-    __          __          
-   / /   __  __/ /______ _  
-  / /   / / / / //_/ __ `/  
- / /___/ /_/ / ,< / /_/ /   
-/_____/\__,_/_/|_|\__,_/
-```
-                          
 
 ## Skills🙏
 - Fullstack Dev
@@ -18,7 +9,7 @@ Hi, my name is,
 - nun on github yet💔
 
 ## Contact
-- prof. email luka.ajkalo2@gmail.com
+- prof. email: luka.ajkalo2@gmail.com
 
 ## Personal🥷
 - 3rd year HTL Kaindorf
